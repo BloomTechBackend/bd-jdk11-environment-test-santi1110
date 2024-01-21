@@ -1,0 +1,3 @@
+rootProject.name = 'bd-jdk11-environment-test'
+include 'LibrariesAndUtilities:LessonPlanResources'
+

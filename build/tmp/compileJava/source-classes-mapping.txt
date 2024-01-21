@@ -1,0 +1,6 @@
+main/com/Account.java
+ main.com.Account
+main/com/Main.java
+ main.com.Main
+generator/Generator.java
+ generator.Generator
